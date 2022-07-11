@@ -61,12 +61,12 @@ if (isset($_POST['submit'])){
 </div>
 
 <div class="form-group">
-    <label >Pasword</label>
+    <label >Password</label>
     <input type="text" class="form-control"  placeholder="Enter your pasword" name="password" value=<?php echo $password;  ?>>
 </div> 
 
 
-  <button type="submit" class="btn btn-primary" name="submit">updeit</button>
+  <button type="submit" class="btn btn-primary" name="submit">upedate</button>
 </form>
 
 
